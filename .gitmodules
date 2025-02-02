@@ -1,0 +1,3 @@
+[submodule "exams/learning-cxx"]
+	path = exams/learning-cxx
+	url = https://github.com/goldenfox2025/learning-cxx.git
